@@ -4,8 +4,8 @@ import numpy as np
 # Cylinder parameters
 radius_bottom = 2.6
 radius_top = 2.0
-height = 15
-gap = 2.0
+height = 20.0
+gap = 15.0
 segments = 32
 num_cylinders = 3
 base_thickness = 1.0
